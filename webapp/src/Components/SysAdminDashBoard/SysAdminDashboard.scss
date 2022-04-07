@@ -1,0 +1,102 @@
+.p-title-dash{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2E4053;
+    font-size:18px;
+    margin:10px;
+}
+.p-title-dash-alt{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #FFFFFF;
+  font-size:18px;
+  margin:10px;
+}
+.p-title-{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #2E4053;
+  font-size:24px;
+  margin:30px;
+}
+.card-dash{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 350px;
+    height:100px;
+    background-color:#F7F7F7;
+    border-radius: 10px;
+    padding:10px;
+    margin: 20px;
+    display:flex;
+    flex-direction: row;
+  
+  };
+  .card-dash-selected{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 350px;
+    height:100px;
+    background-color:#F7F7F7;
+    border-radius: 10px;
+    padding:10px;
+    margin: 20px;
+    display:flex;
+    flex-direction: row;
+  
+  };
+  .card-wide{
+    //box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 550px;
+    height:550px;
+    background-color:#F7F7F7;
+    border-radius: 10px;
+    padding:10px;
+    margin: 20px;
+    display:flex;
+    flex-direction: row;
+  
+  };
+  
+  .card-dash:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    };
+    .photo {
+      margin:10px;
+      height: 50px;
+      width: 50px; 
+ }
+;
+ .container{
+display:flex;
+flex-direction: row;
+ };
+ .p-taskStatus-1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #2E4053;
+  font-size:18px;
+  margin:10px;
+ }
+
+ .dropdown{
+  display: block;
+  width: 100%;
+  padding: 10px 15px;
+  background-color: #F8F8F8;
+  border-radius: 8px;
+  transition: 0.4s;
+ }
+ .userSubmit{
+ 
+    background-color: #76D7C4;
+    border: none;
+    width: 60px;
+    height: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 10px;
+    margin: 10px;
+    margin-top: 480px;
+    margin-left: -290px;
+
+ }

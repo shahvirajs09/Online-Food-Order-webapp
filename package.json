@@ -1,0 +1,15 @@
+{
+  "name": "viraj",
+  "version": "1.0.0",
+  "description": "Project Name: Krumbs Authors:  Abhishek Bagdare (bagdare.a@northeastern.edu) Deepali Kasture (kasture.d@northeastern.edu) Jharna Doda (doda.j@northeastern.edu) Viraj Shah (shah.viraj1@northeaser.edu) ------------------------------------------------------------------------- Introduction: An online food ordering platform where customers can browse the menu for multiple restaurants and place orders. Also, order leftover at a reduced price offered by the restaurants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^5.0.0"
+  },
+  "devDependencies": {}
+}

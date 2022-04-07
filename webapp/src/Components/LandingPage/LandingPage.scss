@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.Nav{
+    height: 90px;
+    width: 100%;
+    background-color: #2E4053;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    box-sizing: border-box;
+    padding-left: 24px;
+    box-shadow: 0px 0px 4px rgb(49, 47, 47);
+    z-index: 200;
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding: 0px 0px;
+}
+.logo-container{
+    height: 80px;
+    width: 170px;
+    padding: 5px;
+}
+.navbar-logo{
+    //justify-self: start;
+    margin-left: 20px;
+   
+}
+.login-button{
+
+    //display: flex;
+    cursor: pointer;
+    float: right;
+    margin-right: 20px;
+    list-style: none;
+    color: #2E4053;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #F8F9F9;
+    //color: #FFFFFF;
+    padding: 8px 16px;
+    font-size: 18px;
+    font-weight: 600;
+    border-color: #2E4053;
+    
+}
+.bg-photo{
+    width: 80%;
+    height: 600px;
+    //margin:50px;
+    align-self: center;
+    justify-content: center;
+    margin-left: 150px;
+    
+    
+}
+.bg-photo-div{
+    background-color: #F3E8C9;
+    align-self: center;
+    justify-content: center;
+}
+.restaurant_cards{
+    display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-column-gap: 40px;
+  grid-row-gap: 80px;
+    padding: 20px;
+    justify-content: center;
+    margin: 20px;
+}
+
+.h2_restaurants{
+    padding-top: 70px;
+    padding-bottom: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: #2E4053;
+    font-weight: bold;
+    font-size: 40px;
+    
+}
+
+

@@ -1,0 +1,15 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-column-gap: 10px;
+    grid-row-gap: 30px;
+      padding: 10px;
+      justify-content: center;
+      margin: 10px;
+}
+
+.visible-2{
+  display:flex;
+  flex-direction: row;
+  transition: 0.3s;
+ }

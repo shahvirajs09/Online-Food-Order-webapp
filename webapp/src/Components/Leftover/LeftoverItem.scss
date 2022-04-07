@@ -1,0 +1,121 @@
+   
+.card{
+    // box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+     transition: 0.3s;
+     width: 900px;
+     background-color:#F7F7F7;
+     border-radius: 2px;
+     padding:5px;
+     margin: 3px;
+     height: 45px;
+    
+    
+   }
+   .visible{
+    display:flex;
+    flex-direction: row;
+    transition: 0.3s;
+   }
+   .btn{
+    background-color: #2E4053 !important;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: #FFFFFF;
+  }
+   .collapsed{
+    transition: 0.3s;
+    width: 900px;
+    background-color:#F7F7F7;
+    border-radius: 2px;
+    padding:5px;
+    margin: 3px;
+    height: 100px;
+    display:flex;
+  flex-direction: row;
+   }
+   .isVeg{
+       margin: 12px;
+       width:7px; height:7px;border-radius:4px;background-color: #48C9B0;
+   }
+   .isNonVeg{
+    margin: 12px;
+    width:7px; height:7px;border-radius:4px;background-color:#C0392B;
+}
+.menu-column{
+   width:150px;
+   
+   margin:5px;
+}
+.menu-column--small{
+    width:50px;
+   
+   margin:5px;
+}
+   .cardTitle{
+   width:250px; 
+   height:60px;
+   //box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+   padding: 0px;;
+   display:flex;
+   flex-direction: row;
+ 
+   }
+   .card:hover {
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+   }
+   
+   .p-taskTitle{
+     margin: 7px;
+     font-size:14px;
+     color:#2E4053;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    }
+   .p-tasksubH{
+     margin: 10px;
+     font-size:10px;
+     color:#B2B2B2;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+   }
+   .p-taskDescription{
+     margin: 5px;
+     font-size:13px;
+     color:#76D7C4;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+   }
+   .p-taskStatus{
+     margin: 10px;
+     font-size:10px;
+     color:#1c2833;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+   }
+   
+   .button {
+     background-color: #76D7C4;  
+     border: none;
+     width:60px;
+     height:30px;
+     color:#FFFFFF; 
+     text-align: center;
+    border-radius:5px;
+     display: inline-block;
+     font-size: 10px;
+     margin: 10px;
+   }
+   
+   .div-taskStatus{
+     background-color: #ECECEC; 
+     border: none;
+     width:60px;
+     height:30px; 
+     text-align: center;
+    border-radius:2px;
+     display: inline-block;
+     font-size: 10px;
+     margin: 10px;
+   }
