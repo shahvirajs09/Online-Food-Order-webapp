@@ -1,5 +1,5 @@
 # Introduction: 
-An online food ordering platform where customers can browse the menu for multiple restaurants and place orders. Also, order leftover at a reduced price offered by the restaurants.
+An online food ordering platform where customers can browse the menu for multiple restaurants and place orders. 
 
 # Users: 
 1. System Admin 
