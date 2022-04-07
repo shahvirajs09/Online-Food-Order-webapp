@@ -34,7 +34,10 @@ An online food ordering platform where customers can browse the menu for multipl
 
 # Technology stack: 
 Frontend: HTML, CSS ,React, JavaScript, Sass, Node js 
-Backend :Express, Mongo DB(database) UX: Figma, canva
+
+Backend :Express, Mongo DB(database) 
+
+UX: Figma, canva
 
 
 # How to run it:
