@@ -9,6 +9,7 @@ An online food ordering platform where customers can browse the menu for multipl
 # Features: 
 
 1. System Admin: 
+
     Adds new restaurants that can be hosted on the site
     
     Adds new users (admin) for the restaurant
@@ -16,11 +17,13 @@ An online food ordering platform where customers can browse the menu for multipl
     Revokes restaurant and user access 
 
 2. Restaurant Admin: 
+
     Manges Menu (CRUD)
     
     Manages Orders 
 
 3. Customer:
+
     Browse Restaurants
     
     Browse Menu for each resaurant
