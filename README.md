@@ -10,18 +10,23 @@ An online food ordering platform where customers can browse the menu for multipl
 
 1. System Admin: 
     Adds new restaurants that can be hosted on the site
+    
     Adds new users (admin) for the restaurant
+    
     Revokes restaurant and user access 
 
 2. Restaurant Admin: 
     Manges Menu (CRUD)
-    Manages Leftover Menu (CRUD)
+    
     Manages Orders 
 
 3. Customer:
     Browse Restaurants
+    
     Browse Menu for each resaurant
+    
     Add items to cart
+    
     Proceed to checkout and place order
 
 # Technology stack: 
